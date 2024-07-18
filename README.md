@@ -28,4 +28,4 @@ As our data was prepared, we focsued on several statistical analysis techniques 
 1) Aggregation - Our first focus, calculating the average daily returns over the past year of each stock.
 2) Correlation - Determining correlations between each stock and if they follow common trends.
 3) Comparision - Comparing cumulutive returns over the past year.
-Summary Statistics - Calculating summary statistics such as mean, standard deciation, percientiles for daily returns.
+4) Summary Statistics - Calculating summary statistics such as mean, standard deciation, percientiles for daily returns.
