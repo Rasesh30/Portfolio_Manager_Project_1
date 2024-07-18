@@ -29,3 +29,12 @@ As our data was prepared, we focsued on several statistical analysis techniques 
 2) Correlation - Determining correlations between each stock and if they follow common trends.
 3) Comparision - Comparing cumulutive returns over the past year.
 4) Summary Statistics - Calculating summary statistics such as mean, standard deciation, percientiles for daily returns.
+
+## Key Visualizations and Patterns
+In order to understand and compare the selected stocks, we must focus on several reserach topics:
+1) Calculating mean daily returns from the past year, for reach stock, helps give the average performance and return, in which we can compare and further evaluate which stocks would be better in placing investment positions in, with different graph representations such as bar and line graphs.
+2) Calculating standard deviation of cumulutive returns, as well as heatmap summaries of cumuluative returns and  percentiles and mean returns.
+3) Trendlines of closing prices for selected stocks, from the past year.
+4) Comparing mean vs standard deviation of cumulutive returns with plot graph visual.
+5) Bollinger Bands showing market volatility and identifying overbought/oversold conditions.
+
