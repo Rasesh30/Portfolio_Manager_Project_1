@@ -35,6 +35,12 @@ In order to understand and compare the selected stocks, we must focus on several
 1) Calculating mean daily returns from the past year, for reach stock, helps give the average performance and return, in which we can compare and further evaluate which stocks would be better in placing investment positions in, with different graph representations such as bar and line graphs.
 2) Calculating standard deviation of cumulutive returns, as well as heatmap summaries of cumuluative returns and  percentiles and mean returns.
 3) Trendlines of closing prices for selected stocks, from the past year.
-4) Comparing mean vs standard deviation of cumulutive returns with plot graph visual.
+4) Comparing mean vs standard deviataion of cumulutive returns with plot graph visual.
 5) Bollinger Bands showing market volatility and identifying overbought/oversold conditions.
 
+## Conclusions & Observations
+
+After collecting data on Nvidia, Apple, Amazon and Tesla, we have concluded to the following reccomendations:
+1) Nvidia should be the safest best, and largest position to be placed, out of all the chosen stocks due to highest daily returns across the past year, highest standard deviation, or market volatility in the positive direction, and strong positive trendlines of closing stocks, therefore, highest returns.
+2) Amazon and Apple appear to be considered mid size postions, with smaller returns, weaker trendlines and market volatility than Nvidia, but also not the worst performing tech stock observed.
+3) Investing in Tesla, should be the smalleset position to be placed, out of all the chosen stock, due to lowest dialy returns, and worst performing trend lines.
