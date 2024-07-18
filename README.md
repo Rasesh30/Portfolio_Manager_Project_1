@@ -25,7 +25,7 @@ While working for a large equity-trading company, our team is tasked with resear
 In order to manipulate, compare and contrast our data, we follow different statistical analysis techniques to discover patterns and findings. Then, we back up our observations with beautiful visuals to help communicate the message.
 
 As our data was prepared, we focsued on several statistical analysis techniques and perspectives to help us solve our research questions.
-Aggregation - Our first focus, calculating the average daily returns over the past year of each stock.
-Correlation - Determining correlations between each stock and if they follow common trends.
-Comparision - Comparing cumulutive returns over the past year.
+1) Aggregation - Our first focus, calculating the average daily returns over the past year of each stock.
+2) Correlation - Determining correlations between each stock and if they follow common trends.
+3) Comparision - Comparing cumulutive returns over the past year.
 Summary Statistics - Calculating summary statistics such as mean, standard deciation, percientiles for daily returns.
