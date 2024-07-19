@@ -39,6 +39,7 @@ In order to understand and compare the selected stocks, we must focus on several
 2) Calculating standard deviation of cumulative returns, as well as heatmap summaries of cumulative returns and  percentiles and mean returns.
 
 ![HEAT MAP CUMULATIVE RETURNS](https://github.com/user-attachments/assets/8bf0a0a9-5218-42d3-b873-9976dbabb44a)
+
 3) Trendlines of closing prices for selected stocks, from the past year.
 4) Comparing mean vs standard deviation of cumulative returns with plot graph visual.
 5) Bollinger Bands showing market volatility and identifying overbought/oversold conditions.
