@@ -33,7 +33,9 @@ As our data was prepared, we focsued on several statistical analysis techniques 
 ## Key Visualizations and Patterns
 In order to understand and compare the selected stocks, we must focus on several reserach topics:
 1) Calculating mean daily returns from the past year, for reach stock, helps give the average performance and return, in which we can compare and further evaluate which stocks would be better in placing investment positions in, with different graph representations such as bar and line graphs.
+![CUMULATIVE RETURNS ALL](https://github.com/user-attachments/assets/ef0dbe08-5afc-4dd3-8dcb-123c356686fa)
 2) Calculating standard deviation of cumulutive returns, as well as heatmap summaries of cumuluative returns and  percentiles and mean returns.
+![HEAT MAP CUMULATIVE RETURNS](https://github.com/user-attachments/assets/8bf0a0a9-5218-42d3-b873-9976dbabb44a)
 3) Trendlines of closing prices for selected stocks, from the past year.
 4) Comparing mean vs standard deviataion of cumulutive returns with plot graph visual.
 5) Bollinger Bands showing market volatility and identifying overbought/oversold conditions.
