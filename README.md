@@ -47,6 +47,6 @@ In order to understand and compare the selected stocks, we must focus on several
 ## Conclusions & Observations
 
 After collecting data on Nvidia, Apple, Amazon and Tesla, we have concluded to the following recommendations:
-1) Nvidia should be the safest best, and largest position to be placed, out of all the chosen stocks due to highest daily returns across the past year, highest standard deviation, or market volatility in the positive direction, and strong positive trendlines of closing stocks, therefore, highest returns.
-2) Amazon and Apple appear to be considered mid size positions, with smaller returns, weaker trendlines and market volatility than Nvidia, but also not the worst performing tech stock observed.
-3) Investing in Tesla, should be the smallest position to be placed, out of all the chosen stock, due to lowest daily returns, and worst performing trend lines.
+1) Nvidia should be the safest best, and largest position to be placed, out of all the chosen stocks due to highest daily returns across the past year, highest standard deviation, or market volatility in the positive direction, and strong positive trendlines of closing stocks, therefore, most promising, highest returns.
+2) Amazon and Apple are recommended to be considered mid size position investments, with smaller returns, weaker trendlines and market volatility than Nvidia, but also not as bad as tthe worst performing tech stock observed (Tesla).
+3) Investing in Tesla, should be the smallest position to be placed, out of all the chosen stock, due to lowest daily returns, and worst performing trend lines. It gives the leaset promising data in terms of growth and return projection, and should consider whether the stock is worth it at all, or better placed amongst the better return stocks.
